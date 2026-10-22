@@ -6,11 +6,11 @@ using System.Security;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ExcelAddIn1")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Excel 工作表导航")]
+[assembly: AssemblyDescription("Excel 侧边栏工作表导航工具")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ExcelAddIn1")]
+[assembly: AssemblyProduct("Excel 工作表导航")]
 [assembly: AssemblyCopyright("Copyright ©  2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

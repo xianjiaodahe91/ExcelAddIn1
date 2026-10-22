@@ -51,12 +51,13 @@
             // group1
             // 
             this.group1.Items.Add(this.toggleButton1);
-            this.group1.Label = "group1";
+            this.group1.Label = "工作表导航";
             this.group1.Name = "group1";
             // 
             // toggleButton1
             // 
-            this.toggleButton1.Label = "toggleButton1";
+            this.toggleButton1.ControlSize = Microsoft.Office.Core.RibbonControlSize.RibbonControlSizeLarge;
+            this.toggleButton1.Label = "\u5BFC\u2060\u822A"; // 导+词连接符+航
             this.toggleButton1.Name = "toggleButton1";
             this.toggleButton1.Click += new Microsoft.Office.Tools.Ribbon.RibbonControlEventHandler(this.toggleButton1_Click);
             // 
